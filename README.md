@@ -1,10 +1,10 @@
-<h1>Hola, Amigo!</h1>
+<h1>👋 Hola, Amigo!</h1>
 
 <h3>Programming Languages:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square">
+  <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat-square">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4A154B?logo=sql&logoColor=white&style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
