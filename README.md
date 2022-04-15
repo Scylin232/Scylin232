@@ -1,5 +1,7 @@
 <h1>👋 Hola, Amigo!</h1>
 
+<h2>Everything cool has explosions. Don't apply this to software (please).</h2>
+
 <h3>Programming Languages:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
