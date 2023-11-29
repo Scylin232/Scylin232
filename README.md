@@ -25,4 +25,4 @@ I communicate my ideas in:
 2. Ukrainian (Native)
 3. German (Still in the process of qualification...)
 
-[You can find more details in my CV right here.](https://example.com)
+[You can find more details in my CV right here.](https://github.com/Scylin232/Scylin232/blob/05b43e2dcae09a1f532da7e76dcabf8ba59686a5/THCV.pdf)
